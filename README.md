@@ -15,7 +15,7 @@ Uses Current Energy on Event and Extra Claimed from Dailies (No Serums Claimed) 
 
 
 
-***Working On***
+***Working On*** <br />
 Claiming Weekly Serums <br />
 Using additional serums for Event Shop <br />
 Better Auto Claiming Features for the dorm <br />

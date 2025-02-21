@@ -1,5 +1,8 @@
 Punishing Gray Rave - Daily Auto Script
 
+AutoHotKey(Required)
+
+
 Claims daily serums (Working on claiming Weekly)
 Claims daily shard from shop
 Fulfils Dorms Commissions and adds them
